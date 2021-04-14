@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.keipa.jetbrainsguidplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.keipa.jetbrainsguidplugin.MyBundle
 
 class MyApplicationService {
 
